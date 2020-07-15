@@ -1,23 +1,15 @@
-### Welcome! 👋
+![Github Banner](https://github.com/rsh52/rsh52/blob/master/GithubBanner.jpg)
 
-My name is Rich Hanna and this is my public facing GitHub! I build analytics tools including apps, reports, and dashboards to assist in data analytics. Most of the content you find on this site will be done using `R` but may be expanded upon in the future. The content on this site is encouraged and meant to be accessible, usable, and open to feedback!
+Thank you for checking out my public facing GitHub! I build analytics tools including applications, reports, and dashboards to assist in data analytics. I am a strong proponent of the R statistical programming language but also dabble in Python, SQL, and Matlab. 
 
-#### Learn more about some of the work I do 💻: 
+The content on this site is both encouraged and meant to be accessible, usable, and open to feedback!
+
+## Learn more about the work I do 💻: 
 - [Personal Website](https://www.richardshanna.com/)
 - [Global Resuscitation Research](https://www.pedires-q.org/)
 - [National Emergency Airway Registry Research](https://near4kids.research.chop.edu/)
 
-<!--
-**rsh52/rsh52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Connect with me 🌐:
+- [Twitter](https://twitter.com/Richard_S_Hanna)
+- [LinkedIn](https://www.linkedin.com/in/richard-hanna-ms-eit-0164162a/)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
