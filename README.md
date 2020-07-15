@@ -2,6 +2,11 @@
 
 My name is Rich Hanna and this is my public facing GitHub! I build analytics tools including apps, reports, and dashboards to assist in data analytics. Most of the content you find on this site will be done using `R` but may be expanded upon in the future. The content on this site is encouraged and meant to be accessible, usable, and open to feedback!
 
+#### Learn more about some of the work I do 💻: 
+- [Personal Website](https://www.richardshanna.com/)
+- [Global Resuscitation Research](https://www.pedires-q.org/)
+- [National Emergency Airway Registry Research](https://near4kids.research.chop.edu/)
+
 <!--
 **rsh52/rsh52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
