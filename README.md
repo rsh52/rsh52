@@ -1,6 +1,6 @@
 ![Github Banner](https://github.com/rsh52/rsh52/blob/master/GithubBanner.jpg)
 
-Thank you for checking out my public facing GitHub! I build analytics tools including applications, reports, and dashboards to assist in data analytics. I am a strong proponent of the R statistical programming language but also dabble in Python, SQL, and Matlab. 
+Thank you for checking out my public facing GitHub! I build tools and develop software solutions for clinicians and researchers in pediatric medicine. I have worked in critical care resuscitation, airway management, and am now working in CHOP's Cell and Gene Therapy (CGT) DataOps team.
 
 The content on this site is both encouraged and meant to be accessible, usable, and open to feedback!
 
