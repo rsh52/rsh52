@@ -6,6 +6,7 @@ The content on this site is both encouraged and meant to be accessible, usable, 
 
 ## Learn more about the work I do 💻: 
 - [Personal Website](https://www.richardshanna.com/)
+- [Cell & Gene Therapy Laboratory](https://www.chop.edu/centers-programs/cell-and-gene-therapy-laboratory)
 - [Global Resuscitation Research](https://www.pedires-q.org/)
 - [National Emergency Airway Registry Research](https://near4kids.research.chop.edu/)
 
