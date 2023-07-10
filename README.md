@@ -14,5 +14,3 @@ The content on this site is both encouraged and meant to be accessible, usable, 
 ## Connect with me 🌐:
 - [Twitter](https://twitter.com/Richard_S_Hanna)
 - [LinkedIn](https://www.linkedin.com/in/richard-hanna-ms-eit-0164162a/)
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=rsh52&show_icons=true)
