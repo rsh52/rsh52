@@ -1,16 +1,96 @@
-![Github Banner](https://github.com/rsh52/rsh52/blob/master/GithubBanner.jpg)
+<h1 align='center'>
+Richard S. Hanna
+</h1>
 
-Thank you for checking out my public facing GitHub! I build tools and develop software solutions for clinicians and researchers in pediatric medicine. I have worked in critical care resuscitation, airway management, and am now working in CHOP's Cell and Gene Therapy (CGT) Informatics team.
+<p align='center'>
+Children's Hospital of Philadelphia Data Scientist. Experience in clinical informatics and software development.
 
-The content on this site is both encouraged and meant to be accessible, usable, and open to feedback!
+👋 Welcome to my GitHub page. 
+</p>
 
-## Learn more about the work I do 💻: 
-- [Personal Website](https://www.richardshanna.com/)
+<h2 align='center'>
+Connect with me 🌐:
+</h2>
+
+<p align='center'>
+  
+  <a href="https://www.linkedin.com/in/richard-hanna-ms-0164162a/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+   <a href="https://twitter.com/EighthBlunder">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="[https://twitter.com/EighthBlunder](https://github.com/rsh52)">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  
+</p>
+
+<h2 align='center'>
+Learn more about the work I do 💻: 
+</h2>
+  
+- [Portfolio Site](https://www.richardshanna.com/)
 - [Cell & Gene Therapy Laboratory](https://www.chop.edu/centers-programs/cell-and-gene-therapy-laboratory)
-- [Cell & Gene Therapy DataOps Open Source Projects](https://github.com/CHOP-CGTDataOps)
+- [Cell & Gene Therapy Informatics Open Source Projects](https://github.com/CHOP-CGTDataOps)
 - [Global Resuscitation Research](https://www.pedires-q.org/)
 - [National Emergency Airway Registry Research](https://near4kids.research.chop.edu/)
 
-## Connect with me 🌐:
-- [Twitter](https://twitter.com/Richard_S_Hanna)
-- [LinkedIn](https://www.linkedin.com/in/richard-hanna-ms-eit-0164162a/)
+📦 Packages
+
+| Name                 | A short summary                              |  Downloads |
+| -------------------- | -------------------------------------------- | --------- |
+| [REDCapTidieR](https://github.com/CHOP-CGTInformatics/REDCapTidieR) | R package for cleaning and preparing REDCap data for analysis. | [![](https://cranlogs.r-pkg.org/badges/grand-total/REDCapTidieR)](https://cran.r-project.org/package=REDCapTidieR) |
+| [ggswim](https://github.com/CHOP-CGTInformatics/ggswim)   | Create swimlane diagrams with ggplot2. | ---- |
+
+<details>
+  <summary>Resume</summary>
+  
+ #### Education
+
+- **M.S., Biomedical Engineering**
+  - *Drexel University*, Philadelphia, PA (2015)
+
+- **Graduate Certificate in Engineering Management**
+  - *Drexel University*, Philadelphia, PA (2013)
+
+- **B.S., Mechanical Engineering**
+  - *Drexel University*, Philadelphia, PA (2010)
+
+----
+
+#### Experience
+
+- **Data Scientist II**
+   - *Children’s Hospital of Philadelphia - Cell & Gene Therapy Laboratory*, Philadelphia, PA (Present - 2021)
+
+- **Data Analyst & Programmer**
+   - *Children’s Hospital of Philadelphia - Department of Anesthesiology & Critical Care Medicine*, Philadelphia, PA (2021 - 2019)
+
+- **Research Project Engineer**
+   - *Children’s Hospital of Philadelphia - Department of Anesthesiology & Critical Care Medicine*, Philadelphia, PA (2019 - 2017)
+
+- **Project Engineer**
+   - *GS Medical USA*, King of Prussia, PA (2017 - 2017)
+
+- **Associate Project Engineer**
+   - *GS Medical USA*, King of Prussia, PA (2017 - 2015)
+
+- **Biomechanics Engineering Researcher**
+   - *Children’s Hospital of Philadelphia - Center for Injury Research & Prevention*, Philadelphia, PA (2015 - 2014)
+
+----
+
+#### Skills & Certifications
+
+- AWS Solutions Architect
+- FE/EIT Certified by NCEES
+- R
+- REDCap
+- SQL
+- AWS
+- Linux
+- Python
+- MATLAB
+
+</details>
