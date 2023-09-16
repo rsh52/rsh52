@@ -4,8 +4,6 @@ Richard S. Hanna
 
 <p align='center'>
 Children's Hospital of Philadelphia Data Scientist. Experience in clinical informatics and software development.
-
-👋 Welcome to my GitHub page. 
 </p>
 
 <h2 align='center'>
