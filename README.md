@@ -18,7 +18,7 @@ Connect with me 🌐:
    <a href="https://twitter.com/EighthBlunder">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="[https://twitter.com/EighthBlunder](https://github.com/rsh52)">
+  <a href="https://github.com/rsh52">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>&nbsp;&nbsp;
   
@@ -30,9 +30,9 @@ Learn more about the work I do 💻:
   
 - [Portfolio Site](https://www.richardshanna.com/)
 - [Cell & Gene Therapy Laboratory](https://www.chop.edu/centers-programs/cell-and-gene-therapy-laboratory)
-- [Cell & Gene Therapy Informatics Open Source Projects](https://github.com/CHOP-CGTDataOps)
-- [Global Resuscitation Research](https://www.pedires-q.org/)
-- [National Emergency Airway Registry Research](https://near4kids.research.chop.edu/)
+- [Cell & Gene Therapy Informatics GitHub Organization](https://github.com/CHOP-CGTDataOps)
+- [pediRES-Q Global Resuscitation Research](https://www.pedires-q.org/)
+- [National Emergency Airway Registry Research (NEAR4Kids)](https://near4kids.research.chop.edu/)
 
 📦 Packages
 
