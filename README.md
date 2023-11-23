@@ -38,8 +38,9 @@ Learn more about the work I do 💻:
 
 | Name                 | A short summary                              |  Downloads |
 | -------------------- | -------------------------------------------- | --------- |
-| [REDCapTidieR](https://github.com/CHOP-CGTInformatics/REDCapTidieR) | R package for cleaning and preparing REDCap data for analysis. | [![](https://cranlogs.r-pkg.org/badges/grand-total/REDCapTidieR)](https://cran.r-project.org/package=REDCapTidieR) |
-| [ggswim](https://github.com/CHOP-CGTInformatics/ggswim)   | Create swimlane diagrams with ggplot2. | ---- |
+| [REDCapTidieR](https://github.com/CHOP-CGTInformatics/REDCapTidieR) | A R package for cleaning and preparing REDCap data for analysis. | [![](https://cranlogs.r-pkg.org/badges/grand-total/REDCapTidieR)](https://cran.r-project.org/package=REDCapTidieR) |
+| [ggswim](https://github.com/CHOP-CGTInformatics/ggswim)   | A R package for creating swimlane diagrams with ggplot2. | ---- |
+| [fixTwitter](https://github.com/rsh52/fixTwitter) | A Discord bot for converting Twitter/X links for rendering. | ---- |
 
 <details>
   <summary>Resume</summary>
